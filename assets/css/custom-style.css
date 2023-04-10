@@ -10,10 +10,6 @@
 body,
 html {
   font-size: 14px;
-  background-image: linear-gradient(rgba(50, 0, 0, 0.05) 1px, transparent 0),
-    linear-gradient(90deg, rgba(50, 0, 0, 0.05) 1px, transparent 0);
-  background-size: 15px 15px;
-  background-color: #65e63f12;
 }
 
 /*左导航悬浮sidebar-menu-inner宽度调整为90px*/
@@ -91,12 +87,12 @@ html {
 
 /*主页header-banner底部宽度*/
 .post-top {
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 }
 
 /*左导航二级导航标题左侧距离*/
 .sidebar-menu-inner ul li ul li a {
-  margin-left: 30px;
+  margin-left: 40px;
 }
 
 /*头部导航二级导航iconfont图标*/
