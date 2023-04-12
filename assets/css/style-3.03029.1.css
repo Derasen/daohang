@@ -305,7 +305,7 @@ a img.aligncenter {
 .sidebar-menu-inner a {
   display: block;
   overflow: hidden;
-  padding-left: 1.125rem;
+  padding-left: 1.625rem;
   line-height: 40px;
   max-height: 40px;
   color: #b2b8be;
@@ -313,8 +313,8 @@ a img.aligncenter {
 }
 .sidebar-menu ul:first-child > li > a,
 .sidebar-menu ul:first-child > li > a span {
-  line-height: 50px;
-  max-height: 50px;
+  line-height: 40px; 
+  max-height: 45px;
 }
 .sidebar-menu-inner .sidebar-item .sidebar-item > ul > li a span {
   margin-left: 60px;
@@ -4573,6 +4573,7 @@ input.nav-link[readonly] {
 .io-grey-mode .sidebar-nav .flex-bottom a,
 .io-grey-mode .sidebar-menu-inner a {
   color: #515c6b;
+  font-size: 0.958rem;
 }
 .io-grey-mode .sidebar-item ul {
   background: none;
