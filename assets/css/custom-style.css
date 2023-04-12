@@ -3,7 +3,7 @@
   background-image: linear-gradient(rgba(50, 0, 0, 0.05) 1px, transparent 0),
     linear-gradient(90deg, rgba(50, 0, 0, 0.05) 1px, transparent 0);
   background-size: 15px 15px;
-  background-color: #65e63f12;
+  background-color: #54ec2612;
 }
 
 /*调整全局字体大小*/
@@ -87,12 +87,12 @@ html {
 
 /*主页header-banner底部宽度*/
 .post-top {
-  padding-bottom: 20px;
+  padding-bottom: 50px;
 }
 
 /*左导航二级导航标题左侧距离*/
 .sidebar-menu-inner ul li ul li a {
-  margin-left: 40px;
+  margin-left: 30px;
 }
 
 /*头部导航二级导航iconfont图标*/
