@@ -313,7 +313,7 @@ a img.aligncenter {
 }
 .sidebar-menu ul:first-child > li > a,
 .sidebar-menu ul:first-child > li > a span {
-  line-height: 40px; 
+  line-height: 40px;
   max-height: 45px;
 }
 .sidebar-menu-inner .sidebar-item .sidebar-item > ul > li a span {
@@ -2361,6 +2361,7 @@ footer.main-footer {
 .header-big .s-type-list label span {
   display: block;
   padding: 10px 10px;
+  color: yellow;
 }
 .header-big .s-type-list label:not(.active)::after {
   content: "";

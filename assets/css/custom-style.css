@@ -34,7 +34,7 @@ html {
 }
 .big-header-banner:not(.header-bg) .page-header .navbar-nav > li > a,
 .big-header-banner:not(.header-bg) .navbar-menu a:not(.dropdown-item) {
-  color: #ffffff;
+  color: #95de30;
 }
 .big-header-banner:not(.header-bg) .page-header .navbar-nav > li > a:hover,
 .big-header-banner:not(.header-bg) .navbar-menu a:not(.dropdown-item):hover {
@@ -79,7 +79,7 @@ html {
 
 /*主页header-banner底部宽度*/
 .post-top {
-  padding-bottom: 50px;
+  padding-bottom: 15px;
 }
 
 /*左导航二级导航标题左侧距离*/
