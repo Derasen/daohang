@@ -12,7 +12,7 @@
       <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
       
       <guid>https://www.erdaye.xyz/about/</guid>
-      <description>由于嫌构建本地知识库麻烦，本地收藏夹使用起来又不够友好，做个网页还是方便一点； 一直没找到称心的导航站，所以就找了个开源的主题，自己攒了一个。</description>
+      <description>本网站以个人喜好为主如发现不良内容还请联系及时删除； 本站是基于 hugo 的二创开源主题 webstack https://github.com/shenweiyan/webstack-hugo ; 原始主题： https://github.com/WebStackPage/WebStackPage.github.io ; 如果你也想自己做一个同样的网页的话可以直接</description>
     </item>
     
   </channel>
